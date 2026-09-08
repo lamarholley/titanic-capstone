@@ -7,6 +7,10 @@ a user ask about a passenger in plain English instead of filling out a form.
 > "A 29-year-old woman in first class travelling with her husband."
 > → *"This passenger would likely have survived (98.9% estimated probability)..."*
 
+## Demo video
+
+[Watch the demo](https://drive.google.com/file/d/1ItmeStrgliWSHQG-Wf3MWUSi0dUNIRVp/view?usp=sharing)
+
 ## 1. Project description
 
 **What it does.** You describe a Titanic passenger in a sentence. The app
