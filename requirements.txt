@@ -1,0 +1,10 @@
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+mlflow==3.16.0
+xgboost==3.2.0
+streamlit==1.63.0
+pytest==9.1.1
+PyYAML==6.0.3
+joblib==1.5.3
+openai==3.8.0
